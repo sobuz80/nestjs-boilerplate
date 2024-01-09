@@ -71,16 +71,3 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
-
-Instant feedback
-    Enjoy the best DX (Developer eXperience) and code your app at the speed of thought! Your saved changes are reflected instantaneously.
-JWT Authentication
-    Installed and configured JWT authentication.
-Next generation Typescript
-    Always up to date typescript version.
-Industry-standard routing
-    It's natural to want to add pages (e.g. /about`) to your application, and routing makes this possible.
-Environment Configuration
-    development, staging and production environment configurations
-Swagger Api Documentation
-    Already integrated API documentation. To see all available endpoints visit http://localhost:3000/documentation
