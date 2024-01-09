@@ -1,0 +1,18 @@
+npm install -g @nestjs/cli
+nest new your-project-name
+npm run start
+http://localhost:3000
+
+1.Create a new module:
+nest g module book
+
+2.Create a controller for the book:
+nest g controller book
+
+3.Define a service for the book:
+nest g service book --no-spec
+
+
+npm i mongoose @nestjs/mongoose @nestjs/config --save
+
+
